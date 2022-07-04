@@ -302,3 +302,6 @@
     "message": "Authorization Failed. Incorrect Password"
 }
 ```
+
+## База данных 
+Все таблицы будут созданы через SQL запросы в файле db.sql
