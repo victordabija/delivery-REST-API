@@ -1,4 +1,4 @@
-CREATE TABLE `delivery`.`user` ( 
+CREATE TABLE `user` ( 
     `id` INT UNSIGNED NOT NULL AUTO_INCREMENT , 
     `username` VARCHAR(16) NOT NULL , 
     `password` VARCHAR(191) NOT NULL , PRIMARY KEY (`id`)
