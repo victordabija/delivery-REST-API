@@ -2,7 +2,6 @@
 
 abstract class API{
   
-    protected $action = '';
     public $requestUri = [];
 
     public function __construct(){
