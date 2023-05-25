@@ -1,7 +1,7 @@
 # delivery-REST-API
 
 ---
-## Регистрация клиента в API
+## Регистрация клиента в API    
 
 ### URL: https://domain/api/new_user
 ### Тип запроса: POST
